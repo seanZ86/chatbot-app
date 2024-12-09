@@ -1,0 +1,10 @@
+# Ignore bash-related files
+.bash_logout
+.bash_profile
+.bashrc
+
+# Ignore JetBrains IDEA project files
+.idea/
+
+# Ignore SSH configuration directory
+.ssh/
